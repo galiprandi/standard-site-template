@@ -11,7 +11,7 @@
   "type": "module",
   "scripts": {
     "test": "NODE_OPTIONS=--experimental-vm-modules npx jest",
-    "start": "npx servor ./ --browse --reload",
+    "start": "npx servor ./www --browse --reload",
     "ts-watch": "tsc --watch"
   },
   "jest": {
