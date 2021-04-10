@@ -19,7 +19,7 @@
 
 3. npm run start
 
-Start to coding....
+Start to coding you site inside www folder....
 
 ### NPM Scripts
 
