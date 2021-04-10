@@ -5,7 +5,7 @@
 ### Out of box
 
 - Server http with hot reload.
-- ESlint with 'Standard' standard defined.
+- ESlint with 'Standard' standard.
 - Test suite integrated.
 - Typescript support.
 - Global styles with globals variables.
