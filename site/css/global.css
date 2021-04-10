@@ -2,6 +2,7 @@
   --text-color: #262626;
   --background: #fff;
   --foreground: tomato;
+  --border-radius: 3px;
 }
 
 html {
