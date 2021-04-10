@@ -1,0 +1,17 @@
+:root {
+  --text-color: #262626;
+  --background: #fff;
+  --foreground: tomato;
+}
+
+html {
+  box-sizing: border-box;
+  background-color: var(--background);
+  color: var(--text-color);
+  font-family: system-ui, sans-serif;
+}
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
