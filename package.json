@@ -2,10 +2,10 @@
   "name": "standar-site-template",
   "version": "2.0.0",
   "description": "Template for start project based on non framework, or single page application.",
-  "homepage": "https://github.com/galiprandi/standar-site-template",
+  "homepage": "https://github.com/galiprandi/standard-site-template",
   "repository": {
     "type": "git",
-    "url": "git@github.com:galiprandi/standar-site-template.git"
+    "url": "git@github.com:galiprandi/standard-site-template.git"
   },
   "main": "index.js",
   "type": "module",
