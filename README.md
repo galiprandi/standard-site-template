@@ -1,13 +1,13 @@
 # Standard Site Template
 
-> Template for start project based on non framework, or single page application.
+> Template for start framework less, or non SPA (Single Page Application) project.
 
-### Out of box
+### Out of box !
 
-- Server http with hot reload.
-- ESlint with 'Standard' standard.
-- Test suite integrated.
-- Typescript support.
+- [HTTP Server](https://github.com/lukejacksonn/servor#readme) with hot reload.
+- ESlinter with ['Standard'](https://standardjs.com/readme-en.html) code rules.
+- [Test suite](https://jestjs.io/) integrated.
+- [Typescript](https://www.typescriptlang.org/) support.
 - Global styles with globals variables.
 - A nice font family configured
 
