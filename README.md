@@ -5,7 +5,7 @@
 ### Out of box !
 
 - [HTTP Server](https://github.com/lukejacksonn/servor#readme) with hot reload.
-- ESlinter with ['Standard'](https://standardjs.com/readme-en.html) code rules.
+- ESlinter with [Standard JS](https://standardjs.com/readme-en.html) code rules.
 - [Test suite](https://jestjs.io/) integrated.
 - [Typescript](https://www.typescriptlang.org/) support.
 - Global styles with globals variables.
