@@ -23,14 +23,17 @@ Start to coding you site inside www folder....
 
 ### NPM Scripts
 
-start: run http server with hot reload.
+**start**: run http server with hot reload.
 
-test: run test suite with es6 modules support.
+**test**: run test suite with es6 modules support.
 
-ts-watch: transpile Typescript files on change.
+**ts-watch**: transpile Typescript files on change.
+
+**js-minify**: minify all JS files inside folder ./www/site/js expect located in "libraries" folder.
 
 ### TODO:
 
 - [x] Add globals styles
 - [x] Add test suite
 - [x] Add support for typescript
+- [x] Add Minify script
