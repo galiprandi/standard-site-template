@@ -8,7 +8,7 @@
 - ESlinter with [Standard JS](https://standardjs.com/readme-en.html) code rules.
 - [Test suite](https://jestjs.io/) integrated.
 - [Typescript](https://www.typescriptlang.org/) support.
-- Global styles with globals variables.
+- [Global styles](https://github.com/galiprandi/standard-site-template/blob/master/www/site/css/global.css) with globals variables.
 - A nice font family configured
 
 ### How to use:
