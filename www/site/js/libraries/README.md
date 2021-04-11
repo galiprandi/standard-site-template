@@ -1,1 +1,3 @@
-Use this folder to save external libraries o remove if you want.
+Use this folder to save external libraries or remove if you want.
+
+**The files in this folder are exclude of minify script !**
