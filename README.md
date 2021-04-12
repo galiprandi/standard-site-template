@@ -42,9 +42,3 @@ Start to coding you site inside www folder....
 
 **js-minify**: minify all JS files inside folder www/site/js, expect located in "libraries" folder.
 
-### TODO:
-
-- [x] Add globals styles
-- [x] Add test suite
-- [x] Add support for typescript
-- [x] Add Minify script
