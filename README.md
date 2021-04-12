@@ -12,13 +12,13 @@
 
 - [Typescript](https://www.typescriptlang.org/) support.
 
-- [Javascript optimizer and minify](https://github.com/mishoo/UglifyJS#readme) script.
+- [Javascript optimizer and minify](https://github.com/mishoo/UglifyJS#readme) scripts.
 
 - [Global styles](https://github.com/galiprandi/standard-site-template/blob/master/www/site/css/global.css) with globals variables.
 
-- [CSS optimizer and minify](https://github.com/jakubpawlowicz/clean-css-cli#install) script.
+- [CSS optimizer and minify](https://github.com/jakubpawlowicz/clean-css-cli#install) style sheets.
 
-- A nice font family configured
+- A nice font family configured. 
 
 ### How to use:
 
