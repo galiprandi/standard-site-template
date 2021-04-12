@@ -19,7 +19,8 @@
   "jest": {
     "verbose": true,
     "collectCoverage": true,
-    "coverageProvider": "v8"
+    "coverageProvider": "v8",
+    "transform": {}
   },
   "keywords": [],
   "author": "Germán Aliprandi",
