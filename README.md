@@ -5,10 +5,19 @@
 ### Out of box !
 
 - [HTTP Server](https://github.com/lukejacksonn/servor#readme) with hot reload.
-- ESlinter with [Standard JS](https://standardjs.com/readme-en.html) code rules.
+
+- [ESlinter](https://eslint.org/) with [Standard JS](https://standardjs.com/readme-en.html) code rules.
+
 - [Test suite](https://jestjs.io/) integrated.
+
 - [Typescript](https://www.typescriptlang.org/) support.
+
+- [Javascript optimizer and minify](https://github.com/mishoo/UglifyJS#readme) script.
+
 - [Global styles](https://github.com/galiprandi/standard-site-template/blob/master/www/site/css/global.css) with globals variables.
+
+- [CSS optimizer and minify](https://github.com/jakubpawlowicz/clean-css-cli#install) script.
+
 - A nice font family configured
 
 ### How to use:
