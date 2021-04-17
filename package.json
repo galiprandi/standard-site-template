@@ -10,11 +10,11 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "NODE_OPTIONS=--experimental-vm-modules npx jest",
-    "start": "npx servor ./www --browse --reload",
-    "css-clean": "npx cleancss --batch --batch-suffix '.min' www/site/css/*.css",
+    "dev": "npx servor ./www --browse --reload",
     "ts-watch": "tsc --watch",
-    "js-minify": "npx uglifyjs-folder ./www/site/js -eo ./www/site/js -p \"**/*.js,!**/*min.js,!**/*test.js,!libraries/*\""
+    "test": "NODE_OPTIONS=--experimental-vm-modules npx jest",
+    "css-clean": "npx cleancss --batch --batch-suffix '.min' www/site/styles/*.css",
+    "js-minify": "npx uglifyjs-folder ./www/site/scripts -eo ./www/site/scripts -p \"**/*.js,!**/*min.js,!**/*test.js,!libraries/*\""
   },
   "jest": {
     "verbose": true,
