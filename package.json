@@ -13,7 +13,7 @@
     "dev": "npx servor ./www --browse --reload",
     "ts-watch": "tsc --watch",
     "test": "NODE_OPTIONS=--experimental-vm-modules npx jest",
-    "optimize-css": "npx cleancss --batch --batch-suffix '.min' www/site/styles/*.css",
+    "optimize-css": "npx cleancss --batch --batch-suffix '.min' www/site/styles/*.css !www/site/styles/*.min.css",
     "optimize-js": "npx uglifyjs-folder ./www/site/scripts -eo ./www/site/scripts -p \"**/*.js,!**/*min.js,!**/*test.js,!libraries/*\""
   },
   "jest": {
